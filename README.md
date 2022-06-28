@@ -4,7 +4,7 @@
 
 * 🤔 Exploring new technologies and developping web applications ideas.
 * 👨‍🎓 Full stack developer self taught.
-* 💼 Looking for a job at Toulouse, France.
+* 💼 Junior Web Developer in web agency at Toulouse, France.
 * 🌱 Learning more about Cloud Architecture, Algorithms/Data Structures and Hybrid Applications.
 * ✍ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -14,7 +14,7 @@
 * 🌎 HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Spring Boot
 * 🛢 MySQL | MongoDB
 * 🔧 Git | Selenium
-* 🖥 Illustrator | Photoshop | InDesign | Figma
+* 🖥 Illustrator | Photoshop | InDesign | XD
 
 </br>
 
